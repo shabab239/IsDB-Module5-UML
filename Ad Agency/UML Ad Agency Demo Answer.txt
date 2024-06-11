@@ -1,0 +1,12 @@
+Employee (Super) - employeeNumber, name, startDate
+TechnicalStaff (Sub) - skill, availability
+AdministrativeStaff (Sub) - qualifications
+
+
+Customer - companyName, address, faxNumber, contactPerson
+Campaign - title, requirements, startDate, endDate, budgetCost, campaignStatus(Proposed, Discarded, Recommended, Commissioned, Underway, Stopped, Completed), advertisement(oneToMany)
+
+
+Advertisement (Super) - title, targetDate, estimatedCost, actualCost, campaign(manyToOne)
+NewspaperAdvertisement (Sub) - newspaper, placementDate, repeatDates, placementAvailability
+WebsiteAdvertisement (Sub) - startDate, endDate
