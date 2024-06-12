@@ -9,4 +9,4 @@ Campaign - title, requirements, startDate, endDate, budgetCost, campaignStatus(P
 
 Advertisement (Super) - title, targetDate, estimatedCost, actualCost, campaign(manyToOne)
 NewspaperAdvertisement (Sub) - newspaper, placementDate, repeatDates, placementAvailability
-WebsiteAdvertisement (Sub) - startDate, endDate
+WebsiteAdvertisement (Sub) - websiteProvider, startDate, endDate
