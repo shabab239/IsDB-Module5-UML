@@ -1,0 +1,107 @@
+
+Which of the following is true?
+ Identifying what messages are passed between objects is a straightforward process.
+Message passing is a metaphor used to describe object interaction.
+ Message passing is only concerned with query operations.
+Hibernate is used to simplify to interact with the database
+True
+False
+Which of the following best describes black box testing?
+It tests the internal workings of the software and whether the software works as specified.
+It tests whether the software produces the correct outputs for specific inputs.
+It tests whether the software can be used â€˜out of the boxâ€™ by end-users.
+When a statechart is checked for consistency with other models of the system which of the following is true?
+Every operation in a class must appear as an event on a statechart.
+Every action should correspond to the execution of an operation on the appropriate class.
+Every event must appear on a sequence diagram.
+Which of the implicit variable of JSP pages that may be used to access all the other implicit objects?
+context
+Page
+pageContext
+object
+What is meant by the term â€˜measurable objectivesâ€™?
+Aims of the system that are vague and difficult to assess.
+Objectives that can be quantified and have a specific numeric target.
+Strategic aims of the organisation that is getting a new system.
+Which of the following best describes object behaviour?
+What the object is able to do to other objects.
+What the object is able to do for other objects.
+What the object is able to do to itself.
+Good coupling is best characterised by which of the following?
+Keeping the number of message types between objects to a minimum.
+Ensuring that sub-classes are not strongly linked to their superclass.
+Ensuring that operations in the same class are linked.
+What is the primary job of the action?
+To configure a data source.
+ To catch exception
+ Formatting tag library
+ None
+Which of the followings are JSF action Tags?
+< c:choose>
+< sql:setDataSource>
+< h:dataTable>
+< f:selectItem>
+both C & D
+Which of the following are the rules that modelling techniques should enforce?
+ Simplicity of representation, external consistency, completeness and network representation
+Simplicity of representation, internal consistency, completeness and hierarchical
+Simplicity, internal consistency, completeness and hierarchical symbols
+Which of the following are UML implementation diagrams ?
+Component diagrams
+Deployment diagrams
+All
+Which of the following statements is true about adaptive maintenance?
+ It is concerned with changing the system when requirements change.
+It is concerned with ensuring the system data is adapted to suit changes in the organization.
+ It is concerned with maintaining the system so that it can adapt automatically to changes in the organization.
+Both actions and activities may be tied to a state.
+The entry and exit actions, if present, are triggered.
+The entry and exit actions are not triggered.
+The entry and exit actions if present and the action tied to the internal transition are all triggered.
+Which of the following is not a reason for separating the analysis stage from the design stage?
+Analysts and designers may be people with different skills and knowledge.
+It is not possible to begin design until all the analysis has been completed.
+Clients will want clear decision points at which they can agree that the project should progress to the next stage and incur further costs.
+Which statement is an example of logical design?
+Communication between the Agate system and the company accounts system will be by passing messages.
+There will be a message sent to the accounts system called NewInvoice, which will be formatted in XML, and each invoice will have a six-digit invoice number allocated by the accounts system.
+Communication between the Agate system and the company accounts system will use the OpenJMS Java message server with persistent storage of messages provided by the MySQL database.
+What is meant by an economical design?
+The design itself was produced at a low cost.
+The fixed costs and running costs of the system will be low.
+The system will use inexpensive disks.
+Which of the following configuration file is responsible for Hibernet connection.?
+context.xml
+ hibernet.cfg.xml
+ *.hbm.xml
+Which of the following statement is correct related to JSP?
+JSP technology is not just an extension of servlet technology
+ JSP engine will translate the contents of the JSP into servlet
+JSP engine will translate the contents of the JSP into JSTL
+UML consists mainly of _______________ to represent concepts of an Object Oriented Information System. Pick the most appropriate one for the blank space.
+A icon
+A symbol
+ A textual language
+ A graphical language
+Which of the following is a beneficial consequence of good cohesion in a class?
+The attributes in the class will only be accessed by the operations of that class.
+The class will exhibit high levels of encapsulation.
+The operations in the class will be easier to maintain.
+The prefix f: in JSF refers to------------
+HTML elements for the page.
+ Core JSF functionality for the page.
+ Input text fields in the form.
+ None
+What is the abbreviations of JSP?
+Java Service Programming
+ Java Server Programming
+ Java Service Pages
+ Java Server Pages
+Which of the following best describes composition?
+A package of model elements
+A set of realizations for a single use case
+A relationship between a whole and its parts
+Some of the tasks in the general problem-solving model are listed below. Which of the following list these tasks in the correct sequence?
+ Problem definition, Finding solutions, Problem redefinition.
+ Data gathering, Finding solutions, Finding ideas.
+Problem definition, Data gathering, Problem redefinition.
